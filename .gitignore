@@ -1,0 +1,44 @@
+# Unreal Engine
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Rider
+
+.idea/
+
+# Mac
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+
+# Build Files
+
+Build/
+
+# Python
+
+__pycache__/
+
+# Node
+
+node_modules/
